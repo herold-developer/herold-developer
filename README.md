@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./avatar.svg" width="180" height="180" alt="Herold avatar" />
-</p>
-
 <h1 align="center">Herold ⚙️</h1>
 
 <p align="center">
